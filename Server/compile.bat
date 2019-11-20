@@ -1,0 +1,1 @@
+javac -cp ./handler.jar Server\*.java

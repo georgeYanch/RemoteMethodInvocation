@@ -1,0 +1,1 @@
+javac interfaces\*.java

@@ -1,0 +1,1 @@
+jar cvf Handler.jar interfaces\*.class
